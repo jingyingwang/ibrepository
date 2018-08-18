@@ -7,11 +7,11 @@ url                          : "https://jingyingwang.github.io/" # the base host
 blog:
   title                      : IB Repository
   description                  : >
-                               IB Notes and Stuff
+                               IB Notes
 
 # Layout configuration
-  logo_path                  : "assets/img/dactl.svg" # path to logo file
-  search_path                : # "yourgitusername.github.io"
+  logo_path                  : "https://www.ibo.org/globalassets/digital-tookit/logos-and-programme-models/ib-world-school-logo-black-solid.png" # path to logo file
+  search_path                : jingyingwang.github.io # "yourgitusername.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
   hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
@@ -26,14 +26,14 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : Jingying
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
+  mail                      : jingyingwjy@gmail.com # change to your e-mail address
   twitter                   : twitter-user-name
   github                    : github-user-name
   youtube                   : youtube-user-name
   stackoverflow             : stackoverflow-user-name
-  disqus                    : dactl # your disqus site name
+  disqus                    :  # your disqus site name
   google_analytics          : # 'UA-XXXXXXXX-X'
   photo                     : "uploads/me2.png"
   photo2x                   : "uploads/me.png"

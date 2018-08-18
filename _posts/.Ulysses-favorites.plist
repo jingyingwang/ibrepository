@@ -3,11 +3,28 @@
 <plist version="1.0">
 <dict>
 	<key>order</key>
-	<array/>
+	<array>
+		<string>2017-03-22-welcome-to-dactl.md</string>
+	</array>
 	<key>resolutionData</key>
 	<dict>
 		<key>order</key>
-		<dict/>
+		<dict>
+			<key>2017-03-22-welcome-to-dactl.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>556302731.65401101</real>
+				<key>lastModification</key>
+				<real>556302731.65401101</real>
+				<key>version</key>
+				<dict>
+					<key>41a688e7ccc7c914e1d449a107a32b52f6468d0f7e6a2a1111a4f96bc782ee76</key>
+					<integer>4</integer>
+				</dict>
+			</dict>
+		</dict>
 	</dict>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -16,7 +33,7 @@
 		<key>order</key>
 		<dict>
 			<key>41a688e7ccc7c914e1d449a107a32b52f6468d0f7e6a2a1111a4f96bc782ee76</key>
-			<integer>1</integer>
+			<integer>12</integer>
 		</dict>
 	</dict>
 </dict>
