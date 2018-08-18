@@ -3,8 +3,7 @@ layout: post
 title: Las Relaciones Vocabulario
 tags:
   - spanish
-description: \>
-  [Unidad 1] Las Relaciones Vocabulario
+description:   [Unidad 1] Las Relaciones Vocabulario
 hero: https://source.unsplash.com/collection/145103/
 overlay: green
 published: true
