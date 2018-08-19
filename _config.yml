@@ -1,17 +1,17 @@
 # Base blog settings
 baseurl                      : "/ibrepository/" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "https://jingyingwang.github.io/" # the base hostname & protocol for your site
+url                          : "https://jingyingwang.github.io/ibrepository" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
   title                      : IB Repository
-  description                  : >
-                               IB Notes
+  description                  : IB Notes
+                               
 
 # Layout configuration
   logo_path                  : "https://www.ibo.org/globalassets/digital-tookit/logos-and-programme-models/ib-world-school-logo-black-solid.png" # path to logo file
-  search_path                : jingyingwang.github.io # "yourgitusername.github.io"
+  search_path                : "jingyingwang.github.io" # "yourgitusername.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
   hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
