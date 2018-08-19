@@ -1,16 +1,16 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+title: IB Repository
+subtitle: Personal Stash
+email: jingyingwjy@gmail.com
+description: Many IB Notes.
+baseurl: "/ibrepository" # the subpath of your site, e.g. /blog
+url: "https://jingyingwang.github.io/ibrepository"# the base hostname & protocol for your site
 author:
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
 zip_code: 55555
-country: United States of America
+country: Country
 phone: (716) 555-5555
 
 # homepage tiles
@@ -21,13 +21,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+gitlab_url: 
+googleplus_url: 
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/in/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/
 
 # build settings
 markdown: kramdown
