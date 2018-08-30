@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Unit 1] Las Relaciones Vocab
+title:  Las Relaciones Vocab
 description: Feugiat amet tempus
 image: assets/images/lasrelacionesvocab.JPG
 ---
