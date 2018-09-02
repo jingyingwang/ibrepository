@@ -11,7 +11,7 @@ or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontm
 and [creating pages](https://jekyllrb.com/docs/pages/).
 
 - **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
-- **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file! The `.gitlab-ci.yml` file is only needed for GitLab Pages, so feel free to delete this if you are using GitHub instead.
+- **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file.
 
 # Added Features
 
@@ -19,6 +19,14 @@ and [creating pages](https://jekyllrb.com/docs/pages/).
 * Use `_config.yml` to **set whether the homepage tiles should pull pages or posts**, as well as how many to display.
 * Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer!
 * Set **featured images** in front matter.
+
+# Issues
+
+If you would like to report a bug, ask a question, request a feature, feel free to do so on [the GitLab repository](https://gitlab.com/andrewbanchich/forty-jekyll-theme) and I will be more than happy to help!
+
+Alternatively, you can open an issue via email by emailing [incoming+andrewbanchich/forty-jekyll-theme@incoming.gitlab.com](mailto:incoming+andrewbanchich/forty-jekyll-theme@incoming.gitlab.com).
+
+The GitHub repository is simply a mirror of the GitLab repository.
 
 # Credits
 
