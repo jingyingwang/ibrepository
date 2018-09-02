@@ -1,33 +1,33 @@
 # site settings
 title: IB Repository
-subtitle: Personal Stash
+subtitle: by jingying
 email: jingyingwjy@gmail.com
 description: Many IB Notes.
 baseurl: "/ibrepository" # the subpath of your site, e.g. /blog
-url: "https://jingyingwang.github.io/ibrepository"# the base hostname & protocol for your site
-author:
+url: "https://jingyingwang.github.io/ibrepository" 
+author: Jingying
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+city: city
+state: Place
 zip_code: 55555
 country: Country
-phone: (716) 555-5555
+phone: 000000000
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 7
 
 # social settings
 500px_url:
 facebook_url:
-github_url:
+github_url: https://github.com/jingyingwang
 gitlab_url: 
 googleplus_url: 
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/
+instagram_url: 
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/
+twitter_url: 
 
 # build settings
 markdown: kramdown
