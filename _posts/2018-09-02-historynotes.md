@@ -3,7 +3,7 @@ title: History Notes IB
 layout: post
 author: Jingying
 permalink: /history-notes-ib/
-source-id: 116JeVMdINJgLxwmUtKwQD1q8X55etV12156h_HKd-BI
+description: continuous history notes
 published: true
 ---
 History Notes
@@ -16,199 +16,199 @@ History Notes
 
 * **Economy**
 
-    * **1715-1900 Industrial Revolution**: must of the western world had industrialized in 19th century, so raw materials such as coal, iron and steel on a vast scale so weapons are produced easily.
+	* **1715-1900 Industrial Revolution**: must of the western world had industrialized in 19th century, so raw materials such as coal, iron and steel on a vast scale so weapons are produced easily.
 
-    * **19th century Britain Dominance, German Rise**: Britain is the most significant industrial power, and Germany(1871) starts to catch up to Britain.
+	* **19th century Britain Dominance, German Rise**: Britain is the most significant industrial power, and Germany(1871) starts to catch up to Britain.
 
-        * 1880 Britain was 23% of world's output while Germany was 14.8%
+		* 1880 Britain was 23% of world's output while Germany was 14.8%
 
-        * 1910: Germany's industrial output exceeded Britain’s
+		* 1910: Germany's industrial output exceeded Britain’s
 
-        * By 1913 Britain waas 13.6^% and germany was 14.8%
+		* By 1913 Britain waas 13.6^% and germany was 14.8%
 
-    * **Post 1860s United States are also rising**: 14.6% 1880 to 32% in 1910
+	* **Post 1860s United States are also rising**: 14.6% 1880 to 32% in 1910
 
-    * **Economic Competition**: economic strength imply military strength
+	* **Economic Competition**: economic strength imply military strength
 
-        * Each feared being weaker
+		* Each feared being weaker
 
-        * Iron and steel, economic assets, are important for weaoponry
+		* Iron and steel, economic assets, are important for weaoponry
 
-        * Railways transport troops and good.
+		* Railways transport troops and good.
 
 Economic changes redefined the European political landscape. It ends up becoming a motivation and causing the *sheer scale* of the war since this means a huge world war with large weapons and casualties. 
 
 * Imperialism: The act of extending a country's political and military power to foreign countries through colonization.
 
-    * Colonial Rivalry; Imperial Proxy Wars Germany need to distract and make  friends. Germany encourages both England and France to expand in Africa, proxy war in Africa. Italy wants North Africa, which France wants as well. Russian emperor is Prussian emperor's cousin, yet Bismarck is wary - assuming the lack of morals in everyone. Germany encourages Russia to explore Asian territories while secretly arming Japan. Bismarck directs the Austro-Hungary to the Balkans, but Bismarck arms the Ottoman empire. Bismarck instructs other Europeans to look elsewhere and turning them against each other
+	* Colonial Rivalry; Imperial Proxy Wars Germany need to distract and make  friends. Germany encourages both England and France to expand in Africa, proxy war in Africa. Italy wants North Africa, which France wants as well. Russian emperor is Prussian emperor's cousin, yet Bismarck is wary - assuming the lack of morals in everyone. Germany encourages Russia to explore Asian territories while secretly arming Japan. Bismarck directs the Austro-Hungary to the Balkans, but Bismarck arms the Ottoman empire. Bismarck instructs other Europeans to look elsewhere and turning them against each other
 
-    * **1895 Jameson Raid **- Britain and implicitly, Germany. A few days after the raid, the Kaiser of Germany sent a telegram (the 1896 "Kruger telegram") congratulating President Kruger and the Transvaal government on their success "without the help of friendly powers", alluding to potential support by Germany. When this was disclosed in the British press, it raised a storm of anti-German feeling. Dr Jameson was lionised by the press and London society, inflamed by anti-Boer and anti-German feeling and in a frenzy of jingoism. Relationship is worsened.
+	* **1895 Jameson Raid **- Britain and implicitly, Germany. A few days after the raid, the Kaiser of Germany sent a telegram (the 1896 "Kruger telegram") congratulating President Kruger and the Transvaal government on their success "without the help of friendly powers", alluding to potential support by Germany. When this was disclosed in the British press, it raised a storm of anti-German feeling. Dr Jameson was lionised by the press and London society, inflamed by anti-Boer and anti-German feeling and in a frenzy of jingoism. Relationship is worsened.
 
-    * **1899-02 Boer War **- Germany is friend of Dutch. Makes other european powers want to oppose Britain.
+	* **1899-02 Boer War **- Germany is friend of Dutch. Makes other european powers want to oppose Britain.
 
-    * **1905-06 First Moroccan Crisis** - Kaiser declared support for Moroccan sultan against French wishes to take over to disrupt the Anglo-French Entente. 
+	* **1905-06 First Moroccan Crisis** - Kaiser declared support for Moroccan sultan against French wishes to take over to disrupt the Anglo-French Entente.
 
-    * **1906 Algeciras Conference **The resulting convention awarded France a controlling interest in Moroccan affairs, but guaranteed equality of trade and economic freedom for every nation and limited any colonial action by any nation without consultation with the other signatories.
+	* **1906 Algeciras Conference **The resulting convention awarded France a controlling interest in Moroccan affairs, but guaranteed equality of trade and economic freedom for every nation and limited any colonial action by any nation without consultation with the other signatories.
 
-    * **1911 Second Moroccan Crisis **French pushed troops into the country, claiming to be defending the sultan against riots that had erupted in Fez but actually violating the terms of the Algeciras convention. When the French pushed troops into the country, claiming to be defending the sultan against riots that had erupted in Fez but actually violating the terms of the Algeciras convention. In response, Germany sent its own warship, the Panther, which arrived in the port of Agadir on May 21, intensifying the enmity between the two nations and, by extension, their allies. Europe climate had shifted into large blocs of power.
+	* **1911 Second Moroccan Crisis **French pushed troops into the country, claiming to be defending the sultan against riots that had erupted in Fez but actually violating the terms of the Algeciras convention. When the French pushed troops into the country, claiming to be defending the sultan against riots that had erupted in Fez but actually violating the terms of the Algeciras convention. In response, Germany sent its own warship, the Panther, which arrived in the port of Agadir on May 21, intensifying the enmity between the two nations and, by extension, their allies. Europe climate had shifted into large blocs of power.
 
 * **Nationalism**: an form of patriotism marked by a feeling of superiority over other countries
 
-    * 1871-1914 German Nationalism
+	* 1871-1914 German Nationalism
 
-        * 1871 German unification 
+		* 1871 German unification 
 
-            * Treaty of Frankfurt → end of Franco-Prussian War. 
+			* Treaty of Frankfurt → end of Franco-Prussian War.
 
-            * Takes land of Alsace Lorraine. 
+			* Takes land of Alsace Lorraine.
 
-            * France is humiliated - pay money, lose land, host German celebration in Hall of Mirrors. 
+			* France is humiliated - pay money, lose land, host German celebration in Hall of Mirrors.
 
-            * It is Bismarck's Shortsightedness to challenge the most powerful - no wish to be friends with France.
+			* It is Bismarck's Shortsightedness to challenge the most powerful - no wish to be friends with France.
 
-            * France was humiliated in this war and had always wanted payback.
+			* France was humiliated in this war and had always wanted payback.
 
-            * Despite created the new state of German Empire. In the eyes of some, it is not complete. 
+			* Despite created the new state of German Empire. In the eyes of some, it is not complete.
 
-            * France is not dangerous, but if it allies with Austria or Russia it might be.
+			* France is not dangerous, but if it allies with Austria or Russia it might be.
 
-            * Hence, Prussia promises a generous peace, in return Austria does not interfere with 'German affairs'. 
+			* Hence, Prussia promises a generous peace, in return Austria does not interfere with 'German affairs'.
 
-            * When Austria defeated, only Russia is more powerful than Germany.
+			* When Austria defeated, only Russia is more powerful than Germany.
 
-            * Bismarck believes allies are made for reasons and there are no real friends: realpolitik, looking at own best practical interest.
+			* Bismarck believes allies are made for reasons and there are no real friends: realpolitik, looking at own best practical interest.
 
-        * **1884 MG-08** Germany produces MG-08, machine gun. Possibly what caused the war. Both Britain and Germany were practicing using these in Africa.
+		* **1884 MG-08** Germany produces MG-08, machine gun. Possibly what caused the war. Both Britain and Germany were practicing using these in Africa.
 
-        * **1890-94 German New Course** Wilhelm II, German Emperor dismisses Bismarck and wishes to exert more personal control on the empire. More aggressive foreign policy.
+		* **1890-94 German New Course** Wilhelm II, German Emperor dismisses Bismarck and wishes to exert more personal control on the empire. More aggressive foreign policy.
 
-        * 1896 Weltpolitik
+		* 1896 Weltpolitik
 
-            * Break from realpolitik of Bismarck's era, will transform Germany into a global power through:
+			* Break from realpolitik of Bismarck's era, will transform Germany into a global power through:
 
-            * Aggressive foreign policy
+			* Aggressive foreign policy
 
-            * The acquisition of overseas colonies
+			* The acquisition of overseas colonies
 
-            * The development of a large navy (Britain...) 
+			* The development of a large navy (Britain...)
 
-    * 1914 Serbian Nationalism - Catalyst ([The BS in the Balkans](https://www.youtube.com/watch?v=g1KiFON-GWg))
+	* 1914 Serbian Nationalism - Catalyst ([The BS in the Balkans][1])
 
-        * Ottoman Empire Weakness
+		* Ottoman Empire Weakness
 
-            * The Ottoman Empire dominated the Balkans for centuries.
+			* The Ottoman Empire dominated the Balkans for centuries.
 
-            * Recently, it's been weaker - the sick man of Europe. Other powers have a chance to gain more territory.
+			* Recently, it's been weaker - the sick man of Europe. Other powers have a chance to gain more territory.
 
-            * Russia and A-H have ambitions in this area.
+			* Russia and A-H have ambitions in this area.
 
-        * 1908-09 Bosnian Crisis
+		* 1908-09 Bosnian Crisis
 
-            * Austria-Hungary announced the annexation of Bosnia and Herzegovina, territories formally within the sovereignty of the Ottoman Empire. Germany is forced to support AH. The crisis permanently damaged relations between Austria-Hungary on one hand and Serbia, Italy and the Russian Empire on the other. Austria annexed Bosnia in the Balkans. This annoyed** **Serbia, as thousands of Serbians went under A-H control and also Serbia wanted to take over the area. Russia wanted to help Serbia, but had to back down seeing German support. Internally, Russia parliament is angry at not helping 'our Slavic brothers'.
+			* Austria-Hungary announced the annexation of Bosnia and Herzegovina, territories formally within the sovereignty of the Ottoman Empire. Germany is forced to support AH. The crisis permanently damaged relations between Austria-Hungary on one hand and Serbia, Italy and the Russian Empire on the other. Austria annexed Bosnia in the Balkans. This annoyed\*\* \*\*Serbia, as thousands of Serbians went under A-H control and also Serbia wanted to take over the area. Russia wanted to help Serbia, but had to back down seeing German support. Internally, Russia parliament is angry at not helping 'our Slavic brothers'.
 
-        * 1911 Italian-Turkish War Colonial war, defeat leads to Balkan wars
+		* 1911 Italian-Turkish War Colonial war, defeat leads to Balkan wars
 
-        * 1912-13 Balkan Wars Serbia and other countries in the Balkans conquered most of Turkey's land in Europe with Russian support. Serbia became a powerful country, and said Austria-Hungary was its next target. AH threatens war, Russia supports Serbia.
+		* 1912-13 Balkan Wars Serbia and other countries in the Balkans conquered most of Turkey's land in Europe with Russian support. Serbia became a powerful country, and said Austria-Hungary was its next target. AH threatens war, Russia supports Serbia.
 
-        * 1914 Black Hands 
+		* 1914 Black Hands 
 
-            * A Serbian nationalist movement that aimed to unite territories with a South Slavic majority under Serbian control using violent means, including lands held by A-H.
+			* A Serbian nationalist movement that aimed to unite territories with a South Slavic majority under Serbian control using violent means, including lands held by A-H.
 
-            * May be behind the assassination of Archduke Franz Ferdinand.
+			* May be behind the assassination of Archduke Franz Ferdinand.
 
 * Industrialization: the development of industries in a country on a wide scale
 
-    * They industrialized.
+	* They industrialized.
 
 * Militarism: the belief that a country should maintain a strong military capability and be prepared to use it aggressively to defend or promote national interests
 
 The increased ability to produce weaponry due to industrialization empowered the motivation to imperialism abroad and domestically in Europe. 
 
-    * 1870-14 Second Industrial Revolution
+	* 1870-14 Second Industrial Revolution
 
 This is a period of massive improvements in technology and science fueled by nationalism.
 
-        * Louis Pasteur developed germ theory in 1860-5. 
-
-        * He has money from French government and therefore develop vaccinations to challenge German authority, showing that France is scientifically more advanced. 
-
-        * 'War on Science' - German pushes pharmaceutical industry. 
-
-        * Robert Koch is a German person who began to develop vaccines. 
-
-        * Both countries see science as a pathway to political deterrence. These vaccines were preparing for warfare.
-
-    * Pre-1914 Arms race:
-
-        * Russia had the largest army in 1914 (1.3 million troops) but not the strongest (outdated weapons)
-
-        * Austria-Hungary's army more than doubled to 810000 by 1910.
-
-        * 1906 Naval arms race: 
-
-            * From 1815 onwards, Britain had the biggest navy in the world. It was always double the size of everyone else's.
-
-            * This is because Britain needs to keep the military and also the trade. It was a necessity.
-
-            * German King also wants to have a big navy. In Germany,
-
-            * 'In 1898, the Naval Act provided for 19 battleships and 8 cruisers.'
-
-            * 'In 1900, the second Naval Act provided for 38 battleships and 20 cruisers.'
-
-            * In 1906, Britain develops the HMS Dreadnought and destroys its own navy. 
-
-            * Dreadnought was a class of ships that is faster, better armed and can travel further, runs on steam power.
-
-            * It made all the other ships obsolete.
-
-            * Kaiser sees the ship and wants it. 
-
-            * They began competing who can make the most Dreadnoughts. 
-
-            * By 1914, Germany had 17 Dreadnoughts while Britain had 29. 
-
-            * Both sides received massive public support.
-
-            * It was economically impossible for the Germans to close the gap before the war broke out.
-
-            * By the time of war, Britain was still the biggest navy in the world.
+	    * Louis Pasteur developed germ theory in 1860-5. 
+	
+	    * He has money from French government and therefore develop vaccinations to challenge German authority, showing that France is scientifically more advanced. 
+	
+	    * 'War on Science' - German pushes pharmaceutical industry. 
+	
+	    * Robert Koch is a German person who began to develop vaccines. 
+	
+	    * Both countries see science as a pathway to political deterrence. These vaccines were preparing for warfare.
+	
+	* Pre-1914 Arms race:
+	
+	    * Russia had the largest army in 1914 (1.3 million troops) but not the strongest (outdated weapons)
+	
+	    * Austria-Hungary's army more than doubled to 810000 by 1910.
+	
+	    * 1906 Naval arms race: 
+	
+	        * From 1815 onwards, Britain had the biggest navy in the world. It was always double the size of everyone else's.
+	
+	        * This is because Britain needs to keep the military and also the trade. It was a necessity.
+	
+	        * German King also wants to have a big navy. In Germany,
+	
+	        * 'In 1898, the Naval Act provided for 19 battleships and 8 cruisers.'
+	
+	        * 'In 1900, the second Naval Act provided for 38 battleships and 20 cruisers.'
+	
+	        * In 1906, Britain develops the HMS Dreadnought and destroys its own navy. 
+	
+	        * Dreadnought was a class of ships that is faster, better armed and can travel further, runs on steam power.
+	
+	        * It made all the other ships obsolete.
+	
+	        * Kaiser sees the ship and wants it. 
+	
+	        * They began competing who can make the most Dreadnoughts. 
+	
+	        * By 1914, Germany had 17 Dreadnoughts while Britain had 29. 
+	
+	        * Both sides received massive public support.
+	
+	        * It was economically impossible for the Germans to close the gap before the war broke out.
+	
+	        * By the time of war, Britain was still the biggest navy in the world.
 
 * Military plans
 
 New military weapons meant new plans. Rather than having a small conflict, every nation jumped in with their own plans and that's why WWI became such a large scale conflict.
 
-    * 1903 Schlieffen Plan
-
-        * Aims to prevent war against eastern border with Russia and western border with France simultaneously
-
-        * reaction of German fear of encirclement - created in 1903, which means to attack the French first, just like in 1871. Launch attack from Alsace-Lorraine, main attack will come through Belgium to Northern France: need to move fast. Hit France first, then focus on all Russians. Changes and adaptions are relied on # of factors:
-
-        * Superiority of the German Military - higher mobility, greater firepower (after 1908, MG-08 machine gun), better training.
-
-        * Plan is based on Russian army of circa 1900s - huge armies, not industrialized, lacked railways → slow mobilizations. Early July, Russia starts to mobilize the armies since they know that they are slow. 
-
-        * For France and Russia, yet now it's Triple Entente - Britain will also get troops to help France, Britain will get troops to France through navy and land on certain ports. Adapted to ensure Britain does not get troops to France fast enough - changes plan at last minute. Break out from German Hook, German troops will capture certain deepwater ports.
-
-        * Schlieffen plan did not work, yet cannot stop. In Britain, mobilization is also growing out of control. The Plan is what started the fighting.
-
-    * Russian plans:
-
-        * Rapidly move against Germany so it **mobilized first** in order to counter logistical problems
-
-    * **1913 **France Plan XVII: launching against Germany on shared border
-
-    * Britain plan:
-
-        * Send their army to France in the event of war
-
-        * Concentrate to destroy Germany's navy to hinder supplies, and hence weaken German economy and morale
+	* 1903 Schlieffen Plan
+	
+	    * Aims to prevent war against eastern border with Russia and western border with France simultaneously
+	
+	    * reaction of German fear of encirclement - created in 1903, which means to attack the French first, just like in 1871. Launch attack from Alsace-Lorraine, main attack will come through Belgium to Northern France: need to move fast. Hit France first, then focus on all Russians. Changes and adaptions are relied on # of factors:
+	
+	    * Superiority of the German Military - higher mobility, greater firepower (after 1908, MG-08 machine gun), better training.
+	
+	    * Plan is based on Russian army of circa 1900s - huge armies, not industrialized, lacked railways → slow mobilizations. Early July, Russia starts to mobilize the armies since they know that they are slow. 
+	
+	    * For France and Russia, yet now it's Triple Entente - Britain will also get troops to help France, Britain will get troops to France through navy and land on certain ports. Adapted to ensure Britain does not get troops to France fast enough - changes plan at last minute. Break out from German Hook, German troops will capture certain deepwater ports.
+	
+	    * Schlieffen plan did not work, yet cannot stop. In Britain, mobilization is also growing out of control. The Plan is what started the fighting.
+	
+	* Russian plans:
+	
+	    * Rapidly move against Germany so it **mobilized first** in order to counter logistical problems
+	
+	* **1913 **France Plan XVII: launching against Germany on shared border
+	
+	* Britain plan:
+	
+	    * Send their army to France in the event of war
+	
+	    * Concentrate to destroy Germany's navy to hinder supplies, and hence weaken German economy and morale
 
 * **Alliance systems:**
 
-* **Alliance System: **The two power blocs of countries in World War I, Triple Alliance and the Triple Entente
+* **Alliance System: **The two power blocs of countries in World War I, Triple Alliance and the Triple Entente
 
-![image alt text]({{ site.url }}/public/UjsEUwr4fapfE4SUwS9qcw_img_0.png)
+![image alt text]({{ site.url }}/public/UjsEUwr4fapfE4SUwS9qcw\_img\_0.png)
 
 **Date of Key Alliances:**
 
@@ -220,7 +220,7 @@ New military weapons meant new plans. Rather than having a small conflict, every
 
 * 1904 Entente Cordiale between France and Britain. Unite against should Germany attack. Defensive.
 
-* 1907 **Triple Entente **between France, Britain and Russia against Germany.
+* 1907 **Triple Entente **between France, Britain and Russia against Germany.
 
 #### Triple Alliance: Germany, Italy, Austria-Hungary
 
@@ -256,77 +256,78 @@ Germany would provoke a preventative war since it has the advantage to launch a 
 
 * 1914 July Crisis
 
-    * 28 June, heir to the Austro-Hungarian throne visited Sarajevo, Archduke Francis Ferdinand.
+	* 28 June, heir to the Austro-Hungarian throne visited Sarajevo, Archduke Francis Ferdinand.
 
-    * He is a moderate, does not oppose serbia, Serbian and Bosnian solution
+	* He is a moderate, does not oppose serbia, Serbian and Bosnian solution
 
-    * Serbian nationalists had time to make plans to assassinate him.
+	* Serbian nationalists had time to make plans to assassinate him.
 
-    * All assassination attempts failed but chance means that Princip, a Serbian nationalist,  killed Ferdinand and wife.
+	* All assassination attempts failed but chance means that Princip, a Serbian nationalist,  killed Ferdinand and wife.
 
-    * Europe was shocked and Austria and Serbia seemed need to showdown.
+	* Europe was shocked and Austria and Serbia seemed need to showdown.
 
-    * Austria had a perfect excuse to militarily punish Serbia.
+	* Austria had a perfect excuse to militarily punish Serbia.
 
-    * Austrian Foreign minister Berchtold, Emperor agreed that risking war with Russia is necessary to preserve Austria's face.
+	* Austrian Foreign minister Berchtold, Emperor agreed that risking war with Russia is necessary to preserve Austria's face.
 
-    * 5-6 July Blank Check
+	* 5-6 July Blank Check
 
-    * Kaiser and Chancellor promised full German support for Austria for whatever military action.
+	* Kaiser and Chancellor promised full German support for Austria for whatever military action.
 
-    * This 'blank cheque' was offered and both Kaiser and Chancellor recommended immediate action against Serbia assuming:
+	* This 'blank cheque' was offered and both Kaiser and Chancellor recommended immediate action against Serbia assuming:
 
-    * Russia Tsar would not support assassination of Ferdinand
+	* Russia Tsar would not support assassination of Ferdinand
 
-    * Russia would not act without French support (which iis unlikely)
+	* Russia would not act without French support (which iis unlikely)
 
-    * German government was risking but not expecting European war.
+	* German government was risking but not expecting European war.
 
-    * Austria hungary did not act until 23 July.
+	* Austria hungary did not act until 23 July.
 
-    * 23 July ultimatum
+	* 23 July ultimatum
 
-    * Austria-Hungary presented an ultimatum to Serbia on 23 July.
+	* Austria-Hungary presented an ultimatum to Serbia on 23 July.
 
-    * It is very severe and certain that Serbia would reject within 48 hr time limit.
+	* It is very severe and certain that Serbia would reject within 48 hr time limit.
 
-    * Russia promised to support, Serbian government expected war.
+	* Russia promised to support, Serbian government expected war.
 
-    * Austria immediately severed diplomatic relations and declared war on Jul 28.
+	* Austria immediately severed diplomatic relations and declared war on Jul 28.
 
-    * 24-25 July Russian support
+	* 24-25 July Russian support
 
-    * Sazonov, Russia foreign minister, interpreted Austrian ultimatum as deliberate provocation.
+	* Sazonov, Russia foreign minister, interpreted Austrian ultimatum as deliberate provocation.
 
-    * Fellow slav state was being threatened by Germanic powers.
+	* Fellow slav state was being threatened by Germanic powers.
 
-    * Russian prestige in the Balkans was at stake.
+	* Russian prestige in the Balkans was at stake.
 
-    * Russia's position in Balcans would collapse if it abandoms Serbia.
+	* Russia's position in Balcans would collapse if it abandoms Serbia.
 
-    * Russia does not want to repeat its mistake in the 1908-09 Bosnian Crisis.
+	* Russia does not want to repeat its mistake in the 1908-09 Bosnian Crisis.
 
-    * Russia mobilized first.
+	* Russia mobilized first.
 
-    * **26th July Attempt at Peace **Britain tried to arrange a diplomatic conference on the 26th July, many countries agreed to come but Germany refused to attend. The conference never met. 
+	* **26th July Attempt at Peace **Britain tried to arrange a diplomatic conference on the 26th July, many countries agreed to come but Germany refused to attend. The conference never met.
 
-    * 28 July Austria Hungary declared war on Serbia
+	* 28 July Austria Hungary declared war on Serbia
 
-    * 29th July Britain proposed mediation.
+	* 29th July Britain proposed mediation.
 
-    * 29th July Nicholas II Russian Tsar sends telegram to Wilhelm to request help in restraining Austria-Hungary and to prevent war. Germany made it clear that any Russian mobilisation would provoke German mobilisation.
+	* 29th July Nicholas II Russian Tsar sends telegram to Wilhelm to request help in restraining Austria-Hungary and to prevent war. Germany made it clear that any Russian mobilisation would provoke German mobilisation.
 
-    * Russia in 'period preparatory' on July 25-26, ready to fight already, to deter Austria, before Serbia rejected ultimatum.
+	* Russia in 'period preparatory' on July 25-26, ready to fight already, to deter Austria, before Serbia rejected ultimatum.
 
-    * Germany demanded Russia to stop.
+	* Germany demanded Russia to stop.
 
-    * Germany declared war on Russia 1st August and began mobilising France also started on this day.
+	* Germany declared war on Russia 1st August and began mobilising France also started on this day.
 
-    * Germany asked France for neutrality, and when there is no reply Germany declared war on France on 3rd August.
+	* Germany asked France for neutrality, and when there is no reply Germany declared war on France on 3rd August.
 
-    * Germany demand passage through Belgium 2nd August, prepared to guarantee independence to it.
+	* Germany demand passage through Belgium 2nd August, prepared to guarantee independence to it.
 
-    * Belgian government rejected Germany's request, German troops invaded Belgium.
+	* Belgian government rejected Germany's request, German troops invaded Belgium.
 
-    * Great powers guaranteed Belgian nutrality in 1839 impacted Britain. Britain must defend Belgium and its ultimatum was rejected, Britain declared war on Germany on 4 August.
+	* Great powers guaranteed Belgian nutrality in 1839 impacted Britain. Britain must defend Belgium and its ultimatum was rejected, Britain declared war on Germany on 4 August.
 
+[1]:	https://www.youtube.com/watch?v=g1KiFON-GWg
