@@ -14,7 +14,7 @@ country: Country
 phone: 000000000
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 7
 
 # social settings
