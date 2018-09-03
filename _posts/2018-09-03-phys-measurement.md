@@ -6,8 +6,8 @@ permalink: /phys-measurement/
 description: notes on measurement
 published: true
 ---
-\<div class="4u"\> \<span class="image fit"\>\<img src="assets/images/p1m1.jpg" alt="" /\>\</span\>
-\</div\>
+![][image-1]
+![][image-2]
 
-\<div class="4u"\> \<span class="image fit"\>\<img src="assets/images/p1m2.jpg" alt="" /\>\</span\>
-\</div\>
+[image-1]:	assets/images/p1m1.jpg
+[image-2]:	assets/images/p1m2.jpg
