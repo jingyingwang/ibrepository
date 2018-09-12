@@ -18,8 +18,8 @@ image: assets/images/his.jpg
     <div class="6u 12u$(small)">
 <h2 id="wwi">World War I</h2>
         <ul>
-            <li><a href="/causes">Causes of WWI</a></li>
-            <li><a href="/wwi">Course of WWI</a></li>
+            <li><a href="/ibrepository/causes">Causes of WWI</a></li>
+            <li><a href="/ibrepository/wwi">Course of WWI</a></li>
             <li>Felis dolore viverra.</li>
         </ul></div>
     <div class="6u 12u$(small)">
