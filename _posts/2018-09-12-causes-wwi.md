@@ -1,54 +1,13 @@
 ---
-title: History Notes IB
+title: Causes of WWI
 layout: post
 author: Jingying
 permalink: /causes-wwi/
 description: causes of wwi
 published: true
 ---
-History Notes
 
-**1 World War I**
-
-# **Causes of First World War**
-
-## **Long term causes (6) (ANIMA****ssassinationLeaders?)****:**
-
-* **Economy**
-
-	* **1715-1900 Industrial Revolution**: must of the western world had industrialized in 19th century, so raw materials such as coal, iron and steel on a vast scale so weapons are produced easily.
-
-	* **19th century Britain Dominance, German Rise**: Britain is the most significant industrial power, and Germany(1871) starts to catch up to Britain.
-
-		* 1880 Britain was 23% of world's output while Germany was 14.8%
-
-		* 1910: Germany's industrial output exceeded Britain’s
-
-		* By 1913 Britain waas 13.6^% and germany was 14.8%
-
-	* **Post 1860s United States are also rising**: 14.6% 1880 to 32% in 1910
-
-	* **Economic Competition**: economic strength imply military strength
-
-		* Each feared being weaker
-
-		* Iron and steel, economic assets, are important for weaoponry
-
-		* Railways transport troops and good.
-
-Economic changes redefined the European political landscape. It ends up becoming a motivation and causing the *sheer scale* of the war since this means a huge world war with large weapons and casualties. 
-
-* Imperialism: The act of extending a country's political and military power to foreign countries through colonization.
-
-	* Colonial Rivalry; Imperial Proxy Wars Germany need to distract and make  friends. Germany encourages both England and France to expand in Africa, proxy war in Africa. Italy wants North Africa, which France wants as well. Russian emperor is Prussian emperor's cousin, yet Bismarck is wary - assuming the lack of morals in everyone. Germany encourages Russia to explore Asian territories while secretly arming Japan. Bismarck directs the Austro-Hungary to the Balkans, but Bismarck arms the Ottoman empire. Bismarck instructs other Europeans to look elsewhere and turning them against each other
-
-	* **1895 Jameson Raid **- Britain and implicitly, Germany. A few days after the raid, the Kaiser of Germany sent a telegram (the 1896 "Kruger telegram") congratulating President Kruger and the Transvaal government on their success "without the help of friendly powers", alluding to potential support by Germany. When this was disclosed in the British press, it raised a storm of anti-German feeling. Dr Jameson was lionised by the press and London society, inflamed by anti-Boer and anti-German feeling and in a frenzy of jingoism. Relationship is worsened.
-
-	* **1899-02 Boer War **- Germany is friend of Dutch. Makes other european powers want to oppose Britain.
-
-	* **1905-06 First Moroccan Crisis** - Kaiser declared support for Moroccan sultan against French wishes to take over to disrupt the Anglo-French Entente.
-
-	* **1906 Algeciras Conference **The resulting convention awarded France a controlling interest in Moroccan affairs, but guaranteed equality of trade and economic freedom for every nation and limited any colonial action by any nation without consultation with the other signatories.
+* **1906 Algeciras Conference **The resulting convention awarded France a controlling interest in Moroccan affairs, but guaranteed equality of trade and economic freedom for every nation and limited any colonial action by any nation without consultation with the other signatories.
 
 	* **1911 Second Moroccan Crisis **French pushed troops into the country, claiming to be defending the sultan against riots that had erupted in Fez but actually violating the terms of the Algeciras convention. When the French pushed troops into the country, claiming to be defending the sultan against riots that had erupted in Fez but actually violating the terms of the Algeciras convention. In response, Germany sent its own warship, the Panther, which arrived in the port of Agadir on May 21, intensifying the enmity between the two nations and, by extension, their allies. Europe climate had shifted into large blocs of power.
 
